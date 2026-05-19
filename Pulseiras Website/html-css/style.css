@@ -1,0 +1,33 @@
+body{
+    background-color:white;
+}
+
+.cabeçalho{
+    border: 1px solid #999 ;
+    min-height: 60px;
+    background-color: white;
+  padding: 20px;
+  }
+.cabeçalho h1 {
+  margin: 0;
+}
+.cabeçalho img {
+    size: 1px;
+}
+.cabeçalho nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333;
+}
+.banner{
+    border: 1px solid #999;
+    min-height: 400px
+}
+.bestsellers
+.rodapé
+
+.titulo {
+    color:aquamarine;
+    font-size: 42px
+}
+.descrição {}
