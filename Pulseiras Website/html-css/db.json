@@ -1,0 +1,164 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Pulseira Oceano Azul",
+      "tamanho_cm": 16,
+      "padrao": "Ondas",
+      "numero_fios": 6,
+      "cores": ["Azul", "Branco"],
+      "preco_eur": 12.50,
+      "fecho": "Tranças"
+    },
+    {
+      "id": 1,
+      "nome": "Pulseira Oceano Azul",
+      "tamanho_cm": 16,
+      "padrao": "Ondas",
+      "numero_fios": 6,
+      "cores": ["Azul", "Branco"],
+      "preco_eur": 12.50,
+      "fecho": "Tranças"
+    },
+    {
+      "id": 2,
+      "nome": "Pulseira Tribal Sol",
+      "tamanho_cm": 18,
+      "padrao": "Tribal",
+      "numero_fios": 8,
+      "cores": ["Amarelo", "Preto", "Vermelho"],
+      "preco_eur": 15.90,
+      "fecho": "Arco"
+    },
+    {
+      "id": 3,
+      "nome": "Pulseira Natureza Viva",
+      "tamanho_cm": 17,
+      "padrao": "Folhas",
+      "numero_fios": 5,
+      "cores": ["Verde", "Castanho"],
+      "preco_eur": 10.00,
+      "fecho": "Tranças"
+    },
+    {
+      "id": 4,
+      "nome": "Pulseira Aurora",
+      "tamanho_cm": 19,
+      "padrao": "Geométrico",
+      "numero_fios": 10,
+      "cores": ["Roxo", "Azul", "Prata"],
+      "preco_eur": 18.75,
+      "fecho": "Metal"
+    },
+    {
+      "id": 5,
+      "nome": "Pulseira Sunset",
+      "tamanho_cm": 15,
+      "padrao": "Gradiente",
+      "numero_fios": 4,
+      "cores": ["Laranja", "Rosa", "Amarelo"],
+      "preco_eur": 9.50,
+      "fecho": "Laço"
+    },
+    {
+      "id": 6,
+      "nome": "Pulseira Elegance",
+      "tamanho_cm": 18,
+      "padrao": "Minimalista",
+      "numero_fios": 3,
+      "cores": ["Preto", "Dourado"],
+      "preco_eur": 22.00,
+      "fecho": "Magnético"
+    },
+    {
+      "id": 7,
+      "nome": "Pulseira Festival",
+      "tamanho_cm": 20,
+      "padrao": "Étnico",
+      "numero_fios": 12,
+      "cores": ["Vermelho", "Azul", "Verde", "Amarelo"],
+      "preco_eur": 19.90,
+      "fecho": "Tranças"
+    },
+    {
+      "id": 8,
+      "nome": "Pulseira Pérola Lunar",
+      "tamanho_cm": 16,
+      "padrao": "Pérolas",
+      "numero_fios": 7,
+      "cores": ["Branco", "Cinza"],
+      "preco_eur": 25.00,
+      "fecho": "Arco"
+    },
+    {
+      "id": 9,
+      "nome": "Pulseira Neon Style",
+      "tamanho_cm": 17,
+      "padrao": "Zigue-zague",
+      "numero_fios": 9,
+      "cores": ["Verde Neon", "Rosa Neon"],
+      "preco_eur": 14.40,
+      "fecho": "Velcro"
+    },
+    {
+      "id": 10,
+      "nome": "Pulseira Vintage",
+      "tamanho_cm": 18,
+      "padrao": "Floral",
+      "numero_fios": 6,
+      "cores": ["Bege", "Castanho", "Verde"],
+      "preco_eur": 16.80,
+      "fecho": "Botão"
+    },
+    {
+      "id": 11,
+      "nome": "Pulseira Cristal Shine",
+      "tamanho_cm": 15,
+      "padrao": "Cristais",
+      "numero_fios": 5,
+      "cores": ["Transparente", "Azul Claro"],
+      "preco_eur": 27.30,
+      "fecho": "Magnético"
+    },
+    {
+      "id": 12,
+      "nome": "Pulseira Casual Day",
+      "tamanho_cm": 17,
+      "padrao": "Listras",
+      "numero_fios": 4,
+      "cores": ["Cinza", "Branco"],
+      "preco_eur": 8.99,
+      "fecho": "Laço"
+    },
+    {
+      "id": 13,
+      "nome": "Pulseira Boho Chic",
+      "tamanho_cm": 19,
+      "padrao": "Mandala",
+      "numero_fios": 11,
+      "cores": ["Turquesa", "Castanho", "Dourado"],
+      "preco_eur": 21.50,
+      "fecho": "Tranças"
+    },
+    {
+      "id": 14,
+      "nome": "Pulseira Infinity",
+      "tamanho_cm": 16,
+      "padrao": "Infinito",
+      "numero_fios": 5,
+      "cores": ["Prata", "Preto"],
+      "preco_eur": 17.20,
+      "fecho": "Metal"
+    },
+    {
+      "id": 15,
+      "nome": "Pulseira Tropical",
+      "tamanho_cm": 20,
+      "padrao": "Palmeiras",
+      "numero_fios": 8,
+      "cores": ["Verde", "Amarelo", "Azul"],
+      "preco_eur": 13.75,
+      "fecho": "Arco"
+    }
+  ]
+}
